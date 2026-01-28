@@ -58,17 +58,4 @@ Mobile Developer (Student) | React Native ⚛️
 - Android Studio  
 
 
----
-
-## 💻 Terminal
-
-```bash
-$ whoami
-cemilenurden
-
-$ role
-react-native-mobile-developer
-
-$ current_focus
-mobile_ui | performance | clean_architecture
 
