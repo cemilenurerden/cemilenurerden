@@ -57,17 +57,11 @@ Mobile Developer (Student) | React Native ⚛️
 - VS Code  
 - Android Studio  
 
----
-
-## 🎭 Skill Levels (Honest Version)
-
-React Native     ████████░░ 80%  
-UI / UX          ███████░░░ 70%  
-State Management ██████░░░░ 60%  
-API Handling     ███████░░░ 70%  
-Debugging        █████████░ 90%  
 
 ---
+
+## 💻 Terminal
+
 ```bash
 $ whoami
 cemilenurden
@@ -77,24 +71,4 @@ react-native-mobile-developer
 
 $ current_focus
 mobile_ui | performance | clean_architecture
- 
-
----
-
-## 🧠 My Dev Principles
-
-- Build small, but finish
-- Performance > unnecessary animations
-- Clean code over clever code
-- Learning never stops
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemilenurden&show_icons=true)
-
----
-
-💬 If you’re interested in mobile development or building apps together, feel free to connect.
 
