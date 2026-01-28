@@ -15,47 +15,8 @@ Mobile Developer (Student) | React Native ⚛️
 
 ---
 
-## 🧠 How I Build Mobile Apps
 
-💡 Idea  
-⬇️  
-📱 UI (user & thumb friendly)  
-⬇️  
-⚛️ React Native components  
-⬇️  
-🧠 State management  
-⬇️  
-🌐 API integration  
-⬇️  
-🐞 Debugging (emulator vs real device)  
-⬇️  
-🚀 Ship & improve  
-
----
-
-## 🛠 Technologies I Use
-
-### 📱 Mobile
-- React Native  
-- Expo / CLI  
-- React Navigation  
-
-### 🧠 State & Logic
-- Context API  
-- Redux / Zustand (learning)
-
-### 🌐 Backend & APIs
-- REST APIs  
-- Firebase  
-
-### 🗄 Storage
-- AsyncStorage  
-- Secure Storage  
-
-### ⚙️ Tools
-- Git & GitHub  
-- VS Code  
-- Android Studio  
+ 
 
 
 
