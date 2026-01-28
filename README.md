@@ -68,13 +68,16 @@ API Handling     ███████░░░ 70%
 Debugging        █████████░ 90%  
 
 ---
+```bash
+$ whoami
+cemilenurden
 
-## 🐞 Mobile Developer Reality
+$ role
+react-native-mobile-developer
 
-- Works on emulator ≠ works on real device  
-- One codebase, two platforms, double bugs  
-- Hot reload = happiness  
-- Small UI details matter more than you think  
+$ current_focus
+mobile_ui | performance | clean_architecture
+ 
 
 ---
 
