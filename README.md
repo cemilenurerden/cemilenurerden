@@ -38,7 +38,7 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemilenurden&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemilenurerden&show_icons=true&theme=radical&hide_border=true)
 ---
 ## ⏱️ This Week I Spent My Time On
 
