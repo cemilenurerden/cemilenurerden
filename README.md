@@ -7,6 +7,9 @@
 <p align="center">
   <em>Building fast, clean and user-friendly mobile applications.</em>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cemilenurerden&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
 
 ---
 
@@ -20,22 +23,30 @@
 
 ---
 
-## 🧰 Things I Code With
+## 🧰 Technologies I Use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <!-- Core -->
+  <img src="https://img.shields.io/badge/React%20Native-2f2f2f?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-2f2f2f?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-2f2f2f?style=flat&logo=angular&logoColor=white" />
+
+  <!-- Dev Tools -->
+  <img src="https://img.shields.io/badge/Docker-2f2f2f?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-2f2f2f?style=flat&logo=git&logoColor=white" />
+
+  <!-- DB -->
+  <img src="https://img.shields.io/badge/MongoDB-2f2f2f?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-2f2f2f?style=flat&logo=mysql&logoColor=white" />
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-2f2f2f?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-2f2f2f?style=flat&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2f2f2f?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2f2f2f?style=flat&logo=openjdk&logoColor=white" />
 </p>
 ---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cemilenurerden&show_icons=true&theme=radical&hide_border=true)
