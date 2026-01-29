@@ -25,26 +25,27 @@
 
 ## 🧰 Technologies I Use
 
-<p align="left">
+<<p align="left">
   <!-- Core -->
-  <img src="https://img.shields.io/badge/React%20Native-2f2f2f?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-2f2f2f?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-2f2f2f?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-20232A?style=flat-square&logo=angular&logoColor=DD0031" />
 
-  <!-- Dev Tools -->
-  <img src="https://img.shields.io/badge/Docker-2f2f2f?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-2f2f2f?style=flat&logo=git&logoColor=white" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Docker-20232A?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-20232A?style=flat-square&logo=git&logoColor=F05032" />
 
-  <!-- DB -->
-  <img src="https://img.shields.io/badge/MongoDB-2f2f2f?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-2f2f2f?style=flat&logo=mysql&logoColor=white" />
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=flat-square&logo=mysql&logoColor=00758F" />
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-2f2f2f?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-2f2f2f?style=flat&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-2f2f2f?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-2f2f2f?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-20232A?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-20232A?style=flat-square&logo=openjdk&logoColor=ED8B00" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
